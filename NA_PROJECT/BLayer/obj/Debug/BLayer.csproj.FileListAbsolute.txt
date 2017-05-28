@@ -1,0 +1,5 @@
+C:\Users\Muhammad Ejaz\documents\visual studio 2013\Projects\NA_PROJECT\BLayer\bin\Debug\BLayer.dll
+C:\Users\Muhammad Ejaz\documents\visual studio 2013\Projects\NA_PROJECT\BLayer\bin\Debug\BLayer.pdb
+C:\Users\Muhammad Ejaz\documents\visual studio 2013\Projects\NA_PROJECT\BLayer\obj\Debug\BLayer.dll
+C:\Users\Muhammad Ejaz\documents\visual studio 2013\Projects\NA_PROJECT\BLayer\obj\Debug\BLayer.pdb
+C:\Users\Muhammad Ejaz\documents\visual studio 2013\Projects\NA_PROJECT\BLayer\obj\Debug\BLayer.csprojResolveAssemblyReference.cache
